@@ -1,5 +1,6 @@
 ## IDF Component Manager Manifest File
 dependencies:
+  espressif/esp-box: "*"
   idf: ">=5.1"
 
   chmorgan/esp-audio-player: "1.0.5"
